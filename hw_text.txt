@@ -5,3 +5,5 @@ I have added new changes here !
 Checking Conflicts - edit made from git page.
 
 One more line
+
+Adding changes inorder to resolve conflicts from remote main and local main
