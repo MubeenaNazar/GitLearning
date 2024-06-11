@@ -1,3 +1,5 @@
 hello
 
 I have added new changes here !
+
+Checking Conflicts - edit made from git page.
